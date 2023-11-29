@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ..Python  
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...altxwti@gmail.com
+- 📫 How to reach me altxwti@gmail.com
+- 📫 How to reach me https://t.me/altxwti
 
 <!---
 altxwti/altxwti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
