@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @altxwti
+- 👋 Hi, I’m Alex T
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ..Python  
 - 💞️ I’m looking to collaborate on ..
